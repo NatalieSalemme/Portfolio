@@ -1,0 +1,15 @@
+#navbar ul li{
+  list-style-type: none;
+}
+
+#welcome-section {
+  padding-top: 3em;
+  background-color: #ffe6ff;
+  height: 100vh;
+}
+#second-section {
+  background-color: lightblue;
+}
+#third-section {
+  background-color: violet;
+}
