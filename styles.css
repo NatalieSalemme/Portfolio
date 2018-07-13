@@ -1,11 +1,17 @@
-#navbar ul li{
-  list-style-type: none;
+.nav {
+  background-color: #ffe6ff;
+  height: 10vh;
+}
+
+.nav-link {
+  color: red;
 }
 
 #welcome-section {
   padding-top: 3em;
   background-color: #ffe6ff;
   height: 100vh;
+  
 }
 #second-section {
   background-color: lightblue;
