@@ -3,6 +3,9 @@
   background-color: #ffe6ff;
   height: 10vh;
 }
+.intro {
+  color: red;
+}
 
 .nav-link {
   color: red;
@@ -19,10 +22,32 @@
   background-color: violet;
 }
 .social-media {
-  padding-right: 3em;
+  padding-top: 1em;
+  padding-bottom: 2em;
 }
 footer {
   background-color: gray;
   text-align: center;
-  padding: 1em;
+  
+  padding-bottom: .1em;
+}
+.social-media {
+  text-align: center;
+  background-color: gray;
+}
+figcaption {
+  font-weight: bold;
+  border: 1px solid gray;
+}
+#contact, h3 {
+  text-align: center;
+  padding-bottom: 2em;
+}
+@media only screen and (max-width: 400px) {
+  form {
+    min-width: 200px;
+  }
+  #welcome-section, #contact {
+    text-align: center;
+  }
 }
