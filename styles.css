@@ -1,3 +1,4 @@
+
 .nav {
   background-color: #ffe6ff;
   height: 10vh;
@@ -8,14 +9,20 @@
 }
 
 #welcome-section {
-  padding-top: 3em;
+  padding-top: 15em;
   background-color: #ffe6ff;
   height: 100vh;
   
 }
-#second-section {
-  background-color: lightblue;
-}
+
 #third-section {
   background-color: violet;
+}
+.social-media {
+  padding-right: 3em;
+}
+footer {
+  background-color: gray;
+  text-align: center;
+  padding: 1em;
 }
